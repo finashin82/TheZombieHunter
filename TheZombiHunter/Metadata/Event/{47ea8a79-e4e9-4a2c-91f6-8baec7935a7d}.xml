@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{47ea8a79-e4e9-4a2c-91f6-8baec7935a7d}">
 		<property name="name">
-			<value>ReloadWeaponSlow</value>
+			<value>ReloadRifle</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -45,7 +45,7 @@
 			<destination>{1fa40836-5a5d-4f5b-bad3-6d53d7454573}</destination>
 		</relationship>
 		<relationship name="modules">
-			<destination>{83de71b7-21ea-4a70-92b8-2d1afe7f8b5c}</destination>
+			<destination>{677d7c33-2b7e-4908-b585-145d0db6727c}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{322e40a1-8820-4978-9418-584d3fb18b47}</destination>
@@ -66,7 +66,7 @@
 	<object class="MarkerTrack" id="{8e65d594-17a3-45e0-8613-bfa5b37dbc39}" />
 	<object class="Timeline" id="{d601dc55-6a43-4ed9-a32c-c2ec40c1c93e}">
 		<relationship name="modules">
-			<destination>{83de71b7-21ea-4a70-92b8-2d1afe7f8b5c}</destination>
+			<destination>{677d7c33-2b7e-4908-b585-145d0db6727c}</destination>
 		</relationship>
 	</object>
 	<object class="ParameterProxy" id="{d4b2574e-8214-48b3-bb6f-89b29ce03372}">
@@ -93,12 +93,12 @@
 			<destination>{6838969d-6c03-4276-b503-4ef7a8bb7952}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{83de71b7-21ea-4a70-92b8-2d1afe7f8b5c}">
+	<object class="SingleSound" id="{677d7c33-2b7e-4908-b585-145d0db6727c}">
 		<property name="length">
-			<value>1.4367346938775509</value>
+			<value>2.9257142857142857</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{8052ecab-766a-4683-b129-fc256418c2c0}</destination>
+			<destination>{37604691-e579-445c-999c-d87d3b5637f9}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{9a182865-5dd3-4fc1-83d9-b2aa7e9c56a0}">
