@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c8c274db-676e-4a91-b852-f9464322cf0c}">
+		<property name="assetPath">
+			<value>BangBangMainMenu/BangBang.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.750204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{aedd0fba-92a8-4dc3-961d-d76e6824bbad}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{2116e73c-9471-4de9-b5de-d1436d9f0c1e}">
+		<property name="assetPath">
+			<value>BangBangMainMenu/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{aedd0fba-92a8-4dc3-961d-d76e6824bbad}</destination>
+		</relationship>
+	</object>
+</objects>
